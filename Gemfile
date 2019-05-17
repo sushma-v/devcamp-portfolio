@@ -59,5 +59,5 @@ gem 'friendly_id', '~> 5.2.0'
 gem 'devise', '~> 4.6', '>= 4.6.2'
 gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
-gem 'suma_view_tool', git: 'https://github.com/sushma-v/suma_view_tool'
+gem 'suma_view_tool', '~> 0.1.0'
 
